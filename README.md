@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a brazilian python developer who loves solving problems with code.
+
+I have 7+ years of experience mostly dedicated to back-end development with python. Proficient on development of RESTful apis, relational databases, distributed systems and writing automated tests. I also have a Master's degree in Bioinformatics and ~2 years of experience in this field.
+
+- 🔭 I’m currently working on RESTful apis (currently with pyramid framework on my job and fastapi on personal projects)
+- 🌱 I’m currently learning rust!
+- 📫 How to reach me: fsouza dot bruno at gmail dot com
+- 😄 Pronouns: https://pronoun.is/he
+
 <!--
 **bruno-fs/bruno-fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
